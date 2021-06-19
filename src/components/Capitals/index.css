@@ -1,0 +1,38 @@
+.app-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.capitals-container {
+  background-color: #ffffff;
+  padding: 23px;
+  border-radius: 14px;
+}
+
+.country {
+  color: #000000;
+}
+
+.selection-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.para {
+  padding-left: 10px;
+}
+
+.select-capital {
+  width: 195px;
+  border-radius: 5px;
+  display: flex;
+}
+.option {
+}
